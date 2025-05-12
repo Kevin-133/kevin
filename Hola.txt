@@ -1,5 +1,9 @@
 HOLA1
 HOLA2
 HOLA3
+<<<<<<< HEAD
 HOLA4
 hola5
+=======
+HOLA4
+>>>>>>> dev
